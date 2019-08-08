@@ -1,0 +1,48 @@
+body{
+  background-color: #E7FFD5;
+}
+
+.hi{
+  font-family:cursive;
+  display: flex;
+  justify-content: center;
+}
+
+.containerx1{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.img1{
+  height:400px;
+  width:300px;
+}
+
+.img2{
+  height:300px;
+  width:400px;
+  transform:rotate(90deg);
+}
+
+.img3{
+  height:300px;
+  width:400px;
+  transform:rotate(90deg);
+}
+
+.containerx2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img4{
+  height:400px;
+  width:300px;
+}
+
+.img5{
+  height:300px;
+  width:400px;
+  transform:rotate(90deg);
+}
